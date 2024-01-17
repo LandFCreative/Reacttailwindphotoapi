@@ -1,5 +1,15 @@
 # React Tailwind Photo Project
 
+<img src="./Screen.png" width ="50%" />
+
+##Built Using:
+<ul>
+<li>React
+</li>
+<li>Tailwind
+</li>
+</ul>
+
 In order to Run this PixaBay API photo search, go to PixaBay and get your own Key.
 Make a .env file
 Add the variable REACT_APP_PIXABAY_API_KEY= Yourpixabaykeyhere
